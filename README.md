@@ -1,3 +1,10 @@
+Angel Dominguez Carrera 
+
+ID: 7949135750
+
+
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
